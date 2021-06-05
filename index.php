@@ -96,7 +96,7 @@
       <div class="container">
 
         <div class="row">
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-6 col-md-6">
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="bi bi-clipboard-data"></i></div>
               <h4 class="title"><a href="">Valuations</a></h4>
@@ -104,19 +104,11 @@
               <a href="http://" class="btn btn-outline-danger btn-sm">Read More</a>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-6 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bi bi-headset"></i></div>
               <h4 class="title"><a href="">Trainees and Supervisors</a></h4>
               <p class="description">Full library of resources and<br>training modules.</p>
-              <a href="http://" class="btn btn-outline-danger btn-sm">Read More</a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="bi bi-people"></i></div>
-              <h4 class="title"><a href="">Join Our Appraiser Panel</a></h4>
-              <p class="description">Discover the difference of working<br>with AXIS.</p>
               <a href="http://" class="btn btn-outline-danger btn-sm">Read More</a>
             </div>
           </div>
