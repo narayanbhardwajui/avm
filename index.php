@@ -35,37 +35,35 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(https://images.squarespace-cdn.com/content/v1/54ed0135e4b0a3ebc2d2194a/1523639518019-VCGV1UMDI8I52UPYLRWF/ke17ZwdGBToddI8pDm48kJIKxgVeIlyDdItS3f7AngJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UagoOpouSznHURjLapYblHGfYSMuPGNAoxJkrUd43Y-0AVle5px3XiuuAGKTYFVv9w/shutterstock_10383300706.jpg?format=1500w);">
+        <div class="carousel-item active" style="background-image: url(assets/img/HeroBanner_Homepage.jpg);">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2 class="text-uppercase">Welcome to Lenders Link</h2>
-              <p class="lead">A full service Appraisal Management Company Bridging the gap between <strong>Lenders</strong> and <strong>Appraisers</strong> with</p>
-              <ul class="lead">
-                <li>Top Notch Industry Professionalism</li>
-                <li>Cutting Edge Appraisal Technology</li>
-                <li>Direct Personal Service</li>
-              </ul>
-              <div class="text-center"><a href="" class="btn-get-started">Learn More</a></div>
+              <h2 class="text-uppercase text-center">Welcome to ACE VALUE Management</h2>
+              <p class="lead text-center">A full service appraisal management company that focus on partnerships by 
+              providing innovative solutions that bring <strong>Lenders </strong>close to <strong>Appraisers</strong> and 
+              add value to business.</p>
+                            <div class="text-center"><a href="" class="btn-get-started">Learn More</a></div>
             </div>
           </div>
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(https://images.squarespace-cdn.com/content/v1/54ed0135e4b0a3ebc2d2194a/1523639518019-VCGV1UMDI8I52UPYLRWF/ke17ZwdGBToddI8pDm48kJIKxgVeIlyDdItS3f7AngJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UagoOpouSznHURjLapYblHGfYSMuPGNAoxJkrUd43Y-0AVle5px3XiuuAGKTYFVv9w/shutterstock_10383300706.jpg?format=1500w);">
+        <div class="carousel-item" style="background-image: url(assets/img/HeroBanner2_Homepage.jpg);">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2 class="text-uppercase">One Stop Appraisal Management Solution </h2>
-              <p class="lead">Lenders link your One-stop Appraisal Management Solution</p>
+              <h2 class="text-uppercase text-center">One Stop Appraisal Management Solution </h2>
+              <p class="lead text-center">Ace Value Management is your One-stop Appraisal Management Solution</p>
             </div>
           </div>
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(https://images.squarespace-cdn.com/content/v1/54ed0135e4b0a3ebc2d2194a/1523639518019-VCGV1UMDI8I52UPYLRWF/ke17ZwdGBToddI8pDm48kJIKxgVeIlyDdItS3f7AngJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UagoOpouSznHURjLapYblHGfYSMuPGNAoxJkrUd43Y-0AVle5px3XiuuAGKTYFVv9w/shutterstock_10383300706.jpg?format=1500w);">
+        <div class="carousel-item" style="background-image: url(assets/img/HeroBanner3_Homepage.jpg);">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2 class="text-uppercase">the most efficient valuation management</h2>
-              <p class="lead">Get the most efficient Valuation Management available with our unique blend of high tech tools and direct personal service.</p>
+              <h2 class="text-uppercase text-center">The most efficient valuation management</h2>
+              <p class="lead text-center">Get the most efficient Valuation Management available with our unique blend of 
+              high tech tools and direct personal service.</p>
               <div class="text-center"><a href="" class="btn-get-started">Learn More</a></div>
             </div>
           </div>
@@ -98,17 +96,19 @@
         <div class="row">
           <div class="col-lg-6 col-md-6">
             <div class="icon-box" data-aos="fade-up">
-              <div class="icon"><i class="bi bi-clipboard-data"></i></div>
-              <h4 class="title"><a href="">Valuations</a></h4>
-              <p class="description">A full suite of options available<br>for all valuation needs.</p>
+              <div class="icon"><i class="bi bi-cash-stack"></i></div>
+              <h4 class="title"><a href="">Lenders</a></h4>
+              <p class="description">At Ace Value Management we bridge the most affordable, highest quality 
+              technological solutions in the market with best customer service.</p>
               <a href="http://" class="btn btn-outline-danger btn-sm">Read More</a>
             </div>
           </div>
           <div class="col-lg-6 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="bi bi-headset"></i></div>
-              <h4 class="title"><a href="">Trainees and Supervisors</a></h4>
-              <p class="description">Full library of resources and<br>training modules.</p>
+              <div class="icon"><i class="bi bi-clipboard-data"></i></div>
+              <h4 class="title"><a href="">Appraisers</a></h4>
+              <p class="description">The excellent service provided to our clients depends on the quality of our appraisal solutions
+               and our very best professionals...</p>
               <a href="http://" class="btn btn-outline-danger btn-sm">Read More</a>
             </div>
           </div>

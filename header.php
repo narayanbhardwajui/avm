@@ -10,11 +10,9 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="active" href="index.html">Home</a></li>
-          <li><a href="index.html">Solutions</a></li>
+          <li><a href="index.html">Services</a></li>
           <li><a href="about.html">About Us</a></li>
-          <li><a href="index.html">Place an Order</a></li>
-          <li><a href="index.html">Appraisers</a></li>
-          <li><a href="index.html">Start Program</a></li>
+          <li><a href="index.html">Contact Us</a></li>
           <li><a href="index.html" class="btn btn-outline-danger text-danger mx-2">Client Login</a></li>
           <li><a href="index.html" class="btn btn-outline-danger text-danger">Vendor Login</a></li>
         </ul>
