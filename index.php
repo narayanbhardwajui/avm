@@ -39,8 +39,8 @@
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2 class="text-uppercase text-center">Welcome to ACE VALUE Management</h2>
-              <p class="lead text-center">A full service appraisal management company that focus on partnerships by 
-              providing innovative solutions that bring <strong>Lenders </strong>close to <strong>Appraisers</strong> and 
+              <p class="lead text-center">A full service appraisal management company that focus on partnerships by
+              providing innovative solutions that bring <strong>Lenders </strong>close to <strong>Appraisers</strong> and
               add value to business.</p>
                             <div class="text-center"><a href="" class="btn-get-started">Learn More</a></div>
             </div>
@@ -62,7 +62,7 @@
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2 class="text-uppercase text-center">The most efficient valuation management</h2>
-              <p class="lead text-center">Get the most efficient Valuation Management available with our unique blend of 
+              <p class="lead text-center">Get the most efficient Valuation Management available with our unique blend of
               high tech tools and direct personal service.</p>
               <div class="text-center"><a href="" class="btn-get-started">Learn More</a></div>
             </div>
@@ -98,7 +98,7 @@
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="bi bi-cash-stack"></i></div>
               <h4 class="title"><a href="">Lenders</a></h4>
-              <p class="description">At Ace Value Management we bridge the most affordable, highest quality 
+              <p class="description">At Ace Value Management we bridge the most affordable, highest quality
               technological solutions in the market with best customer service.</p>
               <a href="http://" class="btn btn-outline-danger btn-sm">Read More</a>
             </div>
@@ -141,7 +141,6 @@
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
 
