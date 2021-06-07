@@ -10,7 +10,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="active" href="index.php">Home</a></li>
-          <li><a href="index.html">Services</a></li>
+          <li><a href="services.php">Services</a></li>
           <li><a href="about.php">About Us</a></li>
           <li><a href="contact.php">Contact Us</a></li>
           <li><a href="index.html" class="btn btn-outline-danger text-danger mx-2">Client Login</a></li>
