@@ -42,12 +42,11 @@
             </div>
             <div class="col-md-8 order-md-1">
               <h3>About Us</h3>
-              <p>Lenders Link is a real estate valuation services firm that offers a full spectrum of appraisal
-                services. Our executive team is composed of highly trained professionals with over 50 years of combined
-                experience in the industry! We have the ability to assist lenders, owners, buyers and sellers with all
-                of their appraisal requirements. We pride ourselves on our excellent customer service, our industry
-                knowledge, and our commitment to provide only the highest quality valuation solutions. Lenders Link
-                bridges the gap in comprehensive nationwide coverage.</p>
+              <p>Ace Value Management is a real estate valuation services firm that offers a full spectrum of appraisal services.  
+              Our executive team is composed of highly trained professionals with over 50 years of combined experience in the industry! 
+               We have the ability to assist lenders, owners, buyers and sellers with all of their appraisal requirements. 
+                We pride ourselves on our excellent customer service, our industry knowledge, and our commitment to provide only 
+                the highest quality valuation solutions.  Lenders Link bridges the gap in comprehensive nationwide coverage.</p>
             </div>
 
           </div>
@@ -59,10 +58,10 @@
             </div>
             <div class="col-md-8 order-md-2">
               <h3>Our Services</h3>
-              <p>The services we offer include appraisal management, collateral data solutions, and valuation consulting
-                services on residential real estate properties. Our website is secure and is equipped with 24/7 on-line
-                system to order, track, and receive your appraisals. Mortgage industry professionals nationwide can
-                benefit from our suite of valuation solutions that are comprehensive and innovative.</p>
+              <p>The services we offer include appraisal management, collateral data solutions, and valuation consulting services on 
+              residential real estate properties.  Our website is secure and is equipped with 24/7 on-line system to order, 
+              track, and receive your appraisals.  Mortgage industry professionals nationwide can benefit from our suite of 
+              valuation solutions that are comprehensive and innovative.</p>
             </div>
           </div>
           <div class="row align-items-center">
@@ -73,10 +72,10 @@
             </div>
             <div class="col-md-8 order-md-1">
               <h3>Our Staff</h3>
-              <p>Our team consists of selected professionals with strong geographic capabilities that are efficiently
-                managed to coordinate client needs and a full array of services reliably delivered in realistic
-                timeframes through a consolidated, single point of contact. With certified appraisers and a professional
-                staff, the Lenders Link team pledges quality satisfaction to produce dependable results.</p>
+              <p>Our team consists of selected professionals with strong geographic capabilities that are efficiently managed to
+               coordinate client needs and a full array of services reliably delivered in realistic timeframes through a consolidated,
+                single point of contact.  With certified appraisers and a professional staff, the Lenders Link team pledges quality 
+                satisfaction to produce dependable results.</p>
             </div>
 
           </div>

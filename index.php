@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Title here</title>
+  <title>Ace Value Management</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -35,7 +35,7 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/HeroBanner_Homepage.jpg);">
+        <div class="carousel-item active" style="background-image: url(assets/img/HeroBanner3_Homepage.jpg);">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2 class="text-uppercase text-center">Welcome to ACE VALUE Management</h2>
@@ -52,12 +52,14 @@
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2 class="text-uppercase text-center">One Stop Appraisal Management Solution </h2>
-              <p class="lead text-center">Ace Value Management is your One-stop Appraisal Management Solution</p>
+              <p class="lead text-center">One-stop Appraisal Management Solution to get the most efficient Valuation Management 
+              with our unique blend of high tech tools and direct personal service.</p>
+              <div class="text-center"><a href="" class="btn-get-started">Learn More</a></div>
             </div>
           </div>
         </div>
 
-        <!-- Slide 3 -->
+        <!-- Slide 3 
         <div class="carousel-item" style="background-image: url(assets/img/HeroBanner3_Homepage.jpg);">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
@@ -67,7 +69,7 @@
               <div class="text-center"><a href="" class="btn-get-started">Learn More</a></div>
             </div>
           </div>
-        </div>
+        </div>-->
 
       </div>
 

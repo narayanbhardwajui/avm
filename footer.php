@@ -7,7 +7,7 @@
           &copy; Copyright <strong><span>AVM</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-          Designed by <a href="https://bootstrapmade.com/">EasyGo Branding</a>
+          Designed by <a href="https://easygobranding.com/">EasyGo Branding</a>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
