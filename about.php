@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Title here</title>
+  <title>About- AVM</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -31,40 +31,44 @@
 
 
     <!-- ======= About Us Section ======= -->
-    <section id="about-us" class="about-us">
+        <section id="about-us" class="about-us">
       <div class="container">
         <div class="col-lg-10 offset-1">
           <div class="row mb-5 border-bottom pb-3 align-items-center">
-            <div class="col-md-4 ps-md-5 order-md-2 mb-3 text-center">
-              <img class="img-fluid rounded-circle"
-                src="https://images.pexels.com/photos/2284169/pexels-photo-2284169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+           <div class="col-md-4 ps-md-5 order-md-2 mb-3 text-center">
+           <img class="img-fluid rounded-circle"
+                src="assets/img/AboutUs.jpg"
                 alt="" style="width: 250px;height:250px;">
             </div>
             <div class="col-md-8 order-md-1">
               <h3>About Us</h3>
-              <p>Ace Value Management is a real estate valuation services firm that offers a full spectrum of appraisal services.  
-              Our executive team is composed of highly trained professionals with over 50 years of combined experience in the industry! 
-               We have the ability to assist lenders, owners, buyers and sellers with all of their appraisal requirements. 
-                We pride ourselves on our excellent customer service, our industry knowledge, and our commitment to provide only 
-                the highest quality valuation solutions.  Lenders Link bridges the gap in comprehensive nationwide coverage.</p>
+              <p>Ace Value Management, as a real estate valuation services firm, founded on the principle of creating transparent 
+              relationship between the lender and appraiser through a process that brings out best in both parties.<br>
+              Our infrastructure is designed in a manner which ensures compliance to all state and federal regulatory 
+              requirements as well as appraiser independence. With best people, technology and progressive solutions, AVM stands 
+              out amongst others serving the mortgage industry.<br>
+              We embrace the diversity of our clients thus provide them uniquely tailored solutions to fit their specific 
+              needs and business while remaining flexible to change and grow with them along the way.
+              </p>
             </div>
-
           </div>
           <div class="row mb-5 border-bottom pb-3 align-items-center">
             <div class="col-md-4 ps-md-5 order-md-1 mb-3 text-center">
               <img class="img-fluid rounded-circle"
-                src="https://images.pexels.com/photos/2284169/pexels-photo-2284169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                src="assets/img/AboutUsStaff.jpg"
                 alt="" style="width: 250px;height:250px;">
             </div>
             <div class="col-md-8 order-md-2">
-              <h3>Our Services</h3>
-              <p>The services we offer include appraisal management, collateral data solutions, and valuation consulting services on 
-              residential real estate properties.  Our website is secure and is equipped with 24/7 on-line system to order, 
-              track, and receive your appraisals.  Mortgage industry professionals nationwide can benefit from our suite of 
-              valuation solutions that are comprehensive and innovative.</p>
+              <h3>Our Staff</h3>
+              <p>AVM helps the mortgage industry and consumers cut down risk and drive profitable and prudent lending decisions by
+               providing the best in class appraisals completed by local, talented appraisers compensated well above industry standards.<br>
+               Our highly trained and well versed staff is ready to serve you with prompt and accurate updates on all your open orders and 
+               pending queries. We constantly work on being a valued partner by serving you to achieve peak success.</p>
             </div>
           </div>
-          <div class="row align-items-center">
+          <p>We are committed to provide highest quality valuation solutions with our excellent customer service and industry knowledge. . .</p>
+
+         <!-- <div class="row align-items-center">
             <div class="col-md-4 ps-md-5 text-center order-md-2 mb-3">
               <img class="img-fluid rounded-circle"
                 src="https://images.pexels.com/photos/2284169/pexels-photo-2284169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
@@ -79,7 +83,7 @@
             </div>
 
           </div>
-        </div>
+        </div>-->
       </div>
     </section><!-- End About Us Section -->
 

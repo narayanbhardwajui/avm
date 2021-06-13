@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Title here</title>
+  <title>Contact- AVM</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -45,13 +45,15 @@
                 <div class="col-lg-4 info">
                   <i class="bi bi-geo-alt"></i>
                   <h4>Location:</h4>
-                  <p>A108 Adam Street<br>New York, NY 535022</p>
+                  <p>Ace Value Management<br>
+                  695 S Harvard bl 2nd floor<br>
+                  Los Angeles, Ca. 90005</p>
                 </div>
 
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="bi bi-envelope"></i>
                   <h4>Email:</h4>
-                  <p>info@example.com<br>contact@example.com</p>
+                  <p>freddie@acevaluemanagement.com<br>roland@acevaluemanagement.com</p>
                 </div>
 
                 <div class="col-lg-4 info mt-4 mt-lg-0">

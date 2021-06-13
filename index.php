@@ -42,7 +42,7 @@
               <p class="lead text-center">A full service appraisal management company that focus on partnerships by
               providing innovative solutions that bring <strong>Lenders </strong>close to <strong>Appraisers</strong> and
               add value to business.</p>
-                            <div class="text-center"><a href="" class="btn-get-started">Learn More</a></div>
+                            <div class="text-center"><a href="about.php" class="btn-get-started">Learn More</a></div>
             </div>
           </div>
         </div>
@@ -54,7 +54,7 @@
               <h2 class="text-uppercase text-center">One Stop Appraisal Management Solution </h2>
               <p class="lead text-center">One-stop Appraisal Management Solution to get the most efficient Valuation Management 
               with our unique blend of high tech tools and direct personal service.</p>
-              <div class="text-center"><a href="" class="btn-get-started">Learn More</a></div>
+              <div class="text-center"><a href="services.php" class="btn-get-started">Learn More</a></div>
             </div>
           </div>
         </div>
@@ -120,7 +120,7 @@
     </section><!-- End Services Section -->
 
         <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
+    <!--<section id="cta" class="cta">
       <div class="container">
 
         <div class="row">
@@ -134,7 +134,7 @@
         </div>
 
       </div>
-    </section><!-- End Cta Section -->
+    </section>--><!-- End Cta Section -->
 
 
   </main><!-- End #main -->
