@@ -44,16 +44,17 @@
                 <input type="email" class="form-control" placeholder="Enter your email" name="userEmail">
               </div>
               <div class="mb-3">
-                <input type="text" class="form-control" placeholder="Enter your company name" name="userMsg">
+                <input type="text" class="form-control" placeholder="Subject" name="userMsg">
+              </div>
+              <div class="mb-3">
+              <textarea class="form-control" placeholder="Message" rows="6" cols="100"></textarea>
               </div>
               <input type="submit" class="btn btn-danger w-100 rounded-pill" name="submitbutton" value="Submit">
-              <p class="mt-5"><i class="fa fa-info-circle me-1"></i>I agree to be contacted by GSISD and GSISD partners.
-              </p>
             </form>
           </div>
           <div class="col-md-6 mb-3">
             <h3 class="h3">Contact Details:</h3>
-            <address class="lead text-secondary lh-lg mb-3">
+            <address class="lead text-secondary lh-lg mb-3 fw-normal">
               Call: <a href="tel:+1 5589 55488 51" class="border-bottom ms-1 me-3">+1 5589 55488 51</a> <a class="border-bottom" href="tel:+1 5589 22475 14">+1 5589 22475 14</a> <br>
               E-mail:&nbsp;<a href="mailto:info@gsisd.net" class="border-bottom">freddie@acevaluemanagement.com<br></a>
               <a href="mailto:roland@acevaluemanagement.com" class="border-bottom">roland@acevaluemanagement.com<br></a>
