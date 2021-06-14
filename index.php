@@ -59,18 +59,6 @@
           </div>
         </div>
 
-        <!-- Slide 3
-        <div class="carousel-item" style="background-image: url(assets/img/HeroBanner3_Homepage.jpg);">
-          <div class="carousel-container">
-            <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2 class="text-uppercase text-center">The most efficient valuation management</h2>
-              <p class="lead text-center">Get the most efficient Valuation Management available with our unique blend of
-              high tech tools and direct personal service.</p>
-              <div class="text-center"><a href="" class="btn-get-started">Learn More</a></div>
-            </div>
-          </div>
-        </div>-->
-
       </div>
 
       <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
@@ -98,7 +86,11 @@
         <div class="row">
           <div class="col-lg-6 col-md-6">
             <div class="icon-box" data-aos="fade-up">
-              <div class="icon"><i class="bi bi-cash-stack"></i></div>
+              <div class="icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi" viewBox="0 0 16 16">
+                  <path d="M8.277.084a.5.5 0 0 0-.554 0l-7.5 5A.5.5 0 0 0 .5 6h1.875v7H1.5a.5.5 0 0 0 0 1h13a.5.5 0 1 0 0-1h-.875V6H15.5a.5.5 0 0 0 .277-.916l-7.5-5zM12.375 6v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zM8 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2zM.5 15a.5.5 0 0 0 0 1h15a.5.5 0 1 0 0-1H.5z"/>
+                </svg>
+              </div>
               <h4 class="title"><a href="">Lenders</a></h4>
               <p class="description">At Ace Value Management we bridge the most affordable, highest quality
               technological solutions in the market with best customer service.</p>

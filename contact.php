@@ -28,76 +28,53 @@
 
   <main id="main">
 
-    <!-- ======= Contact Section ======= -->
-    <div class="map-section">
-      <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
-    </div>
-
-    <section id="contact" class="contact">
+    <section class="sdwan spacer">
       <div class="container">
-
-        <div class="row justify-content-center">
-
-          <div class="col-lg-10">
-
-            <div class="info-wrap">
-              <div class="row">
-                <div class="col-lg-4 info">
-                  <i class="bi bi-geo-alt"></i>
-                  <h4>Location:</h4>
-                  <p>Ace Value Management<br>
-                  695 S Harvard bl 2nd floor<br>
-                  Los Angeles, Ca. 90005</p>
-                </div>
-
-                <div class="col-lg-4 info mt-4 mt-lg-0">
-                  <i class="bi bi-envelope"></i>
-                  <h4>Email:</h4>
-                  <p>freddie@acevaluemanagement.com<br>roland@acevaluemanagement.com</p>
-                </div>
-
-                <div class="col-lg-4 info mt-4 mt-lg-0">
-                  <i class="bi bi-phone"></i>
-                  <h4>Call:</h4>
-                  <p>+1 5589 55488 51<br>+1 5589 22475 14</p>
-                </div>
+        <div class="row">
+          <div class="col-md-6 mb-3">
+            <form class="contact-form h-100 bg-light p-5" method="POST">
+              <h3 class="h3 mb-3 text-danger">Have Us Contact You</h3>
+              <div class="mb-3">
+                <input type="text" class="form-control" placeholder="Enter your name" name="userName">
               </div>
-            </div>
-
-          </div>
-
-        </div>
-
-        <div class="row mt-5 justify-content-center">
-          <div class="col-lg-10">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                </div>
+              <div class="mb-3">
+                <input type="number" class="form-control" placeholder="Enter your phone number" name="userPhone">
               </div>
-              <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              <div class="mb-3">
+                <input type="email" class="form-control" placeholder="Enter your email" name="userEmail">
               </div>
-              <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              <div class="mb-3">
+                <input type="text" class="form-control" placeholder="Enter your company name" name="userMsg">
               </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <input type="submit" class="btn btn-danger w-100 rounded-pill" name="submitbutton" value="Submit">
+              <p class="mt-5"><i class="fa fa-info-circle me-1"></i>I agree to be contacted by GSISD and GSISD partners.
+              </p>
             </form>
           </div>
+          <div class="col-md-6 mb-3">
+            <h3 class="h3">Contact Details:</h3>
+            <address class="lead text-secondary lh-lg mb-3">
+              Call: <a href="tel:+1 5589 55488 51" class="border-bottom ms-1 me-3">+1 5589 55488 51</a> <a class="border-bottom" href="tel:+1 5589 22475 14">+1 5589 22475 14</a> <br>
+              E-mail:&nbsp;<a href="mailto:info@gsisd.net" class="border-bottom">freddie@acevaluemanagement.com<br></a>
+              <a href="mailto:roland@acevaluemanagement.com" class="border-bottom">roland@acevaluemanagement.com<br></a>
+
+            </address>
+            <hr>
+
+            <address>
+              <h3 class="h3">Office Locations:</h3>
+              <p class="text-secondary"><strong>Ace Value Management</strong><br>
+              695 S Harvard bl 2nd floor<br>
+                  Los Angeles, Ca. 90005</p>
+            </address>
+            <div class="map-section">
+              <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
 
         </div>
-
       </div>
-    </section><!-- End Contact Section -->
+    </section>
 
   </main><!-- End #main -->
 
