@@ -52,14 +52,14 @@
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2 class="text-uppercase text-center">One Stop Appraisal Management Solution </h2>
-              <p class="lead text-center">One-stop Appraisal Management Solution to get the most efficient Valuation Management 
+              <p class="lead text-center">One-stop Appraisal Management Solution to get the most efficient Valuation Management
               with our unique blend of high tech tools and direct personal service.</p>
               <div class="text-center"><a href="services.php" class="btn-get-started">Learn More</a></div>
             </div>
           </div>
         </div>
 
-        <!-- Slide 3 
+        <!-- Slide 3
         <div class="carousel-item" style="background-image: url(assets/img/HeroBanner3_Homepage.jpg);">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
@@ -102,7 +102,7 @@
               <h4 class="title"><a href="">Lenders</a></h4>
               <p class="description">At Ace Value Management we bridge the most affordable, highest quality
               technological solutions in the market with best customer service.</p>
-              <a href="http://" class="btn btn-outline-danger btn-sm">Read More</a>
+              <a href="lenders.php" class="btn btn-outline-danger btn-sm">Read More</a>
             </div>
           </div>
           <div class="col-lg-6 col-md-6">
@@ -111,7 +111,7 @@
               <h4 class="title"><a href="">Appraisers</a></h4>
               <p class="description">The excellent service provided to our clients depends on the quality of our appraisal solutions
                and our very best professionals...</p>
-              <a href="http://" class="btn btn-outline-danger btn-sm">Read More</a>
+              <a href="appraisers.php" class="btn btn-outline-danger btn-sm">Read More</a>
             </div>
           </div>
         </div>

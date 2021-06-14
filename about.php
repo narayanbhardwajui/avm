@@ -31,7 +31,7 @@
 
 
     <!-- ======= About Us Section ======= -->
-        <section id="about-us" class="about-us">
+      <section id="about-us" class="about-us">
       <div class="container">
         <div class="col-lg-10 offset-1">
           <div class="row mb-5 border-bottom pb-3 align-items-center">
@@ -42,12 +42,12 @@
             </div>
             <div class="col-md-8 order-md-1">
               <h3>About Us</h3>
-              <p>Ace Value Management, as a real estate valuation services firm, founded on the principle of creating transparent 
+              <p>Ace Value Management, as a real estate valuation services firm, founded on the principle of creating transparent
               relationship between the lender and appraiser through a process that brings out best in both parties.<br>
-              Our infrastructure is designed in a manner which ensures compliance to all state and federal regulatory 
-              requirements as well as appraiser independence. With best people, technology and progressive solutions, AVM stands 
+              Our infrastructure is designed in a manner which ensures compliance to all state and federal regulatory
+              requirements as well as appraiser independence. With best people, technology and progressive solutions, AVM stands
               out amongst others serving the mortgage industry.<br>
-              We embrace the diversity of our clients thus provide them uniquely tailored solutions to fit their specific 
+              We embrace the diversity of our clients thus provide them uniquely tailored solutions to fit their specific
               needs and business while remaining flexible to change and grow with them along the way.
               </p>
             </div>
@@ -62,7 +62,7 @@
               <h3>Our Staff</h3>
               <p>AVM helps the mortgage industry and consumers cut down risk and drive profitable and prudent lending decisions by
                providing the best in class appraisals completed by local, talented appraisers compensated well above industry standards.<br>
-               Our highly trained and well versed staff is ready to serve you with prompt and accurate updates on all your open orders and 
+               Our highly trained and well versed staff is ready to serve you with prompt and accurate updates on all your open orders and
                pending queries. We constantly work on being a valued partner by serving you to achieve peak success.</p>
             </div>
           </div>
@@ -78,7 +78,7 @@
               <h3>Our Staff</h3>
               <p>Our team consists of selected professionals with strong geographic capabilities that are efficiently managed to
                coordinate client needs and a full array of services reliably delivered in realistic timeframes through a consolidated,
-                single point of contact.  With certified appraisers and a professional staff, the Lenders Link team pledges quality 
+                single point of contact.  With certified appraisers and a professional staff, the Lenders Link team pledges quality
                 satisfaction to produce dependable results.</p>
             </div>
 

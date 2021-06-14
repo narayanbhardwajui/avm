@@ -4,7 +4,7 @@
 
       <div class="logo">
         <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+        <a href="index.php"><img src="assets/img/logo.svg" alt="" class="img-fluid"></a>
       </div>
 
       <nav id="navbar" class="navbar">
