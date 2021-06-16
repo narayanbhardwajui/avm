@@ -32,66 +32,73 @@
       style="background: url(https://images.pexels.com/photos/3184424/pexels-photo-3184424.jpeg) no-repeat top / 100%;height: 45vh;">
     </div>
 
+<!-- #main section -->
     <section>
       <div class="container">
-        <div class="row">
-          <div class="entry-content">
-            <h1 class="text-primary">Lenders looking for an elite AMC </h1>
-            <p><em><strong>Protect Your Investment. Work With the Best! Call us now at (888) 678-4659.</strong></em><br>
-              <em>At Lenders Link we link the most robust valuation technological innovations available today with
-                peerless expertise and traditional customer service. We’re here for you 24/7. </em></p>
-                <hr/>
-            <h3 class="text-danger">Top Quality Experienced Appraisers </h3>
-            <p>With decades of familiarity within the field, we have developed a dynamic knowledge base of the regional
-              real estate market and built a wide network of the very best fully licensed independent appraisers
-              throughout the area. </p>
-              <hr/>
-            <h3 class="text-danger">Knowledgeable Management </h3>
-            <p>Lenders Link principals have a combined 50+ years of hands-on experience in appraisal management and
-              lending. Their combined resources and skills work for you to bridge the gap between lenders and
-              appraisers.</p>
-              <hr/>
-            <h3 class="text-danger">Professional Staff</h3>
-            <p>Our professional staff of certified appraisers is ready to assist you. Need research or technical
-              questions answered? Our staff is ready to help. Just contact us 24/7 by phone or via a link on our
-              website. </p>
-              <hr/>
-            <h3 class="text-danger">Direct Personal Service Customizes Each Lenders Link Appraisal</h3>
-            <p>In today’s point-and-click environment, many appraisal management firms cut corners by automating the
-              entire valuation process and outsourcing support functions to virtual staff with little training or
-              industry experience. Lenders Link is different. We offer you our completely hands-on focused involvement
-              to link you with reliable professionals whose goal becomes the flawless completion of your real estate
-              transaction and surpassing your expectations.</p>
-              <hr/>
-            <h3 class="text-danger">We Link Cutting Edge Technology with Direct Personal Service </h3>
-            <ul>
-              <li>We personally call and engage the appraiser to initiate the valuation process, ascertaining their
-                immediate availability and familiarity with comparable properties</li>
-              <li>We use state-of-the-art technology for order processing and delivering, ensuring that each appraisal
-                is done to USPAP Code and meets all FannieMae, FreddieMac and HUD/FHA requirements</li>
-              <li>We give you the flexibility of ordering and tracking your appraisal online, by phone, or email. When
-                you place an order, you become our top priority. Update your information or check on your appraisal by
-                logging in to your own account on our website or just giving us a call. </li>
-              <li>We personally follow up with appraisers we engage and provide them with a direct phone number to call
-                us with any technical questions about the valuation. Our experienced team will perform immediate
-                research to find accurate answers.</li>
-              <li>We offer you a live phone number on our website that lets you talk directly to an appraiser. </li>
-              <li>We perform due diligence customized reviews utilizing a combination of technology and hands-on reviews
-                performed by our experienced in-house state licensed appraisers for each and every appraisal. </li>
-              <li>We can provide you with offer value reconsideration appraisals. Our goal is to provide you with the
-                information you need so you can make the best decision possible to protect your investment and your
-                business.</li>
-            </ul>
-            <hr/>
-            <h3 class="text-danger">Lenders Link Is Your One Stop Appraisal Management Solution</h3>
-            <p>Lenders Link’s fast, reliable and accurate appraisal turnaround combined with our unique blend of high
-              tech and direct personal service takes the uncertainties out of this important process to give you the
-              most efficient valuation management available. Call us. We look forward to meeting you and meeting all
-              your valuation needs. </p>
-          </div>
-        </div>
+          <h3 class="fw-bold text-center">Ace Value Management, as a real estate valuation services firm, 
+          founded on the principle of creating transparent relationship between the lender and appraiser through a 
+          process that brings out best in both parties.</h3>     
       </div>
     </section>
+  <!-- End #main section -->
+
+
+ <!-- ======= Services Section ======= -->
+ <section id="services" class="services">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 col-md-6">
+            <div class="icon-box" data-aos="fade-up">
+            <div class="icon"><i class="bi bi-people"></i></div>
+              <h4 class="title"><a href="">Appraisal Management</a></h4>
+              <p class="description">With our top notch appraisers we have provided quality and custom appraisal solutions timely. 
+              With our experience in this field we have built a wide network of the very best fully licensed independent appraisers 
+              throughout the area.</p>
+            </div>
+          </div>
+       
+          <div class="col-lg-6 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon"><i class="bi bi-person-check"></i></div>
+              <h4 class="title"><a href="">Professional Staff</a></h4>
+              <p class="description">Our highly trained and well versed staff is ready to serve you with prompt and accurate updates 
+              on all your open orders and pending queries. We constantly work on being a valued partner by serving you to achieve peak 
+              success.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-6 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon"><i class="bi bi-journal-check"></i></div>
+              <h4 class="title"><a href="">Compliance</a></h4>
+              <p class="description">AVM takes regulatory compliance seriously and is always up to date as per new regulations and 
+              amendments.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-6 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon"><i class="bi bi-laptop"></i></div>
+              <h4 class="title"><a href="">Technology Integration</a></h4>
+              <p class="description">Integrate to us to get the most efficient Valuation Management with our unique blend of high tech 
+              tools and direct personal service.</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section><!-- End Services Section -->
+
+        <!-- ======= Cta Section ======= -->
+    <section id="cta" class="cta">
+           
+    <div class="col-lg-9 text-center">
+            <h3>Still Not Convinced?<a href="contact.php"> Contact Us</a> To Know More...</h3>
+          </div>
+                  
+    </section>
+    <!-- End Cta Section -->
+
   </main><!-- End #main -->
 
   <?php include 'footer.php';?>

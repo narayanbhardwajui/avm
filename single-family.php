@@ -59,7 +59,8 @@
           </div>
           <div class="col-md-9">
           <div class="entry-content card-body bg-light border">
-		<h1>Uniform Residential Appraisal Report (Form 1004)</h1>
+		
+    <h2 class="fw-bold text-primary">Uniform Residential Appraisal Report (Form 1004)</h2>
 <p>This report form is designed to report an appraisal of a one-unit property or a one-unit property with an accessory unit; including a unit in a planned unit development (PUD), based on an interior and exterior inspection of the subject property. This report form is not designed to report an appraisal of a manufactured home or a unit in a condominium or cooperative project.</p>
 <h3>Use</h3>
 <p>This report form is designed to report an appraisal of a one-unit property or a one-unit property with an accessory unit; including a unit in a planned unit development (PUD), based on an interior and exterior inspection of the subject property. This report form is not designed to report an appraisal of a manufactured home or a unit in a condominium or cooperative project.</p>
