@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Services- AVM</title>
+  <title>Lenders- AVM</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -28,9 +28,9 @@
   <?php include 'header.php';?>
 
   <main id="main">
-    <div class="text-center"
-      style="background: url(https://images.pexels.com/photos/3184424/pexels-photo-3184424.jpeg) no-repeat top / 100%;height: 45vh;">
-    </div>
+  <div class="text-center"
+      style="background: url(assets/img/LendersHeroBanner.jpg) no-repeat top / 100%;height: 75vh;">
+            </div>
 
 <!-- #main section -->
     <section>
