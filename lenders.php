@@ -30,7 +30,7 @@
   <main id="main">
   <div class="text-center shdw-bg"
       style="background: url(assets/img/LendersHeroBanner.jpg) no-repeat top / 100%;height: 75vh;display:flex;align-items:center;justify-content:center">
-      <h1 class="text-white">
+      <h1 class="text-white" style="font-size:50px;font-weight:bold">
         Looking for a new plan of action?
       </h1>
   </div>
