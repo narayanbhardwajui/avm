@@ -32,7 +32,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 mb-3">
-            <form class="contact-form h-100 bg-light p-5" method="POST">
+            <form class="contact-form h-100 bg-light p-2 p-md-5" method="POST">
               <h3 class="h3 mb-3 text-danger">Have Us Contact You</h3>
               <div class="mb-3">
                 <input type="text" class="form-control" placeholder="Enter your name" name="userName">
@@ -49,14 +49,14 @@
               <div class="mb-3">
               <textarea class="form-control" placeholder="Message" rows="6" cols="100"></textarea>
               </div>
-              <input type="submit" class="btn btn-danger w-100 rounded-pill" name="submitbutton" value="Submit">
+              <input type="submit" class="btn btn-danger w-100" name="submitbutton" value="Submit">
             </form>
           </div>
           <div class="col-md-6 mb-3">
             <h3 class="h3">Contact Details:</h3>
             <address class="lead text-secondary lh-lg mb-3 fw-normal">
-              Call: <a href="tel:(213) 338-7887" class="border-bottom ms-1 me-3">(213) 338-7887</a><br>
-              E-mail:&nbsp;<a href="mailto:info@acemgmtappraisal.com" class="border-bottom">info@acemgmtappraisal.com<br></a>
+              Call: <a href="tel:(213) 338-7887" class="border-bottom ms-1 me-3 d-block d-md-inline-block">(213) 338-7887</a><br>
+              E-mail:&nbsp;<a href="mailto:info@acemgmtappraisal.com" class="border-bottom d-block d-md-inline-block">info@acemgmtappraisal.com<br></a>
             </address>
             <hr>
 

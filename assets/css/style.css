@@ -336,6 +336,12 @@ h1, h2, h3, h4, h5, h6 {
   transform: translate(-50%,-50%);
 }
 
+@media (max-width: 767px) {
+  #hero .carousel-container {
+    width: 90%;
+  }
+}
+
 #hero .carousel-content {
   background: rgba(28, 23, 21, 0.7);
   padding: 20px;
@@ -352,28 +358,9 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 
-#hero .btn-get-started {
-  font-family: "Muli", sans-serif;
-  font-weight: 500;
-  font-size: 14px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 12px 32px;
-  border-radius: 4px;
-  transition: 0.5s;
-  line-height: 1;
-  margin: 10px;
-  color: #fff;
-  -webkit-animation-delay: 0.8s;
-  animation-delay: 0.8s;
-  border: 2px solid #e62e2d;
-}
 
-#hero .btn-get-started:hover {
-  background: #e62e2d;
-  color: #fff;
-  text-decoration: none;
-}
+
+
 
 #hero .carousel-inner .carousel-item {
   transition-property: opacity;

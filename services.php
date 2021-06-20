@@ -34,7 +34,7 @@
     <section id="about-us" class="about-us">
       <div class="container">
         <div class="row">
-          <div class="col-md-3">
+          <div class="col-md-3 mb-3">
             <div class="card">
               <div class="card-header">
                 Services
@@ -57,7 +57,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-9">
+          <div class="col-md-9 mb-3">
             <div class="card-body bg-light border">
               <h2 class="fw-bold text-primary">Services</h2>
               <p>Lender’s Link has developed a line of off-the-shelf products that satisfies the requirements of even

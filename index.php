@@ -42,7 +42,7 @@
               <p class="lead text-center">A full service appraisal management company that focus on partnerships by
               providing innovative solutions that bring <strong>Lenders </strong>close to <strong>Appraisers</strong> and
               add value to business.</p>
-                            <div class="text-center"><a href="about.php" class="btn-get-started">Learn More</a></div>
+                            <div class="text-center"><a href="about.php" class="btn btn-danger">Learn More</a></div>
             </div>
           </div>
         </div>
@@ -54,7 +54,7 @@
               <h2 class="text-uppercase text-center">One Stop Appraisal Management Solution </h2>
               <p class="lead text-center">One-stop Appraisal Management Solution to get the most efficient Valuation Management
               with our unique blend of high tech tools and direct personal service.</p>
-              <div class="text-center"><a href="services.php" class="btn-get-started">Learn More</a></div>
+              <div class="text-center"><a href="services.php" class="btn btn-danger">Learn More</a></div>
             </div>
           </div>
         </div>
@@ -112,21 +112,56 @@
     </section><!-- End Services Section -->
 
         <!-- ======= Cta Section ======= -->
-    <!--<section id="cta" class="cta">
+    <section id="cta" class="cta">
       <div class="container">
-
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
             <h3>We've created more than <span>200 websites</span> this year!</h3>
             <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Request a quote</a>
+            <button class="btn btn-danger align-middle" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Request a quote</button>
           </div>
         </div>
-
       </div>
-    </section>--><!-- End Cta Section -->
+    </section>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="staticBackdropLabel">Have Us Contact You</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+          <div class="row">
+          <div class="col-md-12 mb-3">
+            <form class="contact-form h-100 bg-light p-5" method="POST">
+              <div class="mb-3">
+                <input type="text" class="form-control" placeholder="Enter your name" name="userName">
+              </div>
+              <div class="mb-3">
+                <input type="number" class="form-control" placeholder="Enter your phone number" name="userPhone">
+              </div>
+              <div class="mb-3">
+                <input type="email" class="form-control" placeholder="Enter your email" name="userEmail">
+              </div>
+              <div class="mb-3">
+                <input type="text" class="form-control" placeholder="Subject" name="userMsg">
+              </div>
+              <div class="mb-3">
+              <textarea class="form-control" placeholder="Message" rows="6" cols="100"></textarea>
+              </div>
+              <input type="submit" class="btn btn-danger w-100 rounded-pill" name="submitbutton" value="Submit">
+            </form>
+          </div>
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
 
   </main><!-- End #main -->
