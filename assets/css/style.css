@@ -760,16 +760,16 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  color: #b4aca8;
+  color: #f8f9fa;
   font-size: 14px;
   background: #1f1f1f;
+  padding: 50px 0;
 }
 
 
 #footer .credits {
-  padding-top: 5px;
   font-size: 13px;
-  color: #b4aca8;
+  color: #f8f9fa;
 }
 
 #footer .social-links a {
@@ -791,4 +791,8 @@ section {
   background: #fd5c28;
   color: #fff;
   text-decoration: none;
+}
+
+.carousel-item .btn:hover {
+  background: transparent;
 }
