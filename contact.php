@@ -56,7 +56,7 @@
             <h3 class="h3">Contact Details:</h3>
             <address class="lead text-secondary lh-lg mb-3 fw-normal">
               Call: <a href="tel:(213) 338-7887" class="border-bottom ms-1 me-3 d-block d-md-inline-block">(213) 338-7887</a><br>
-              E-mail:&nbsp;<a href="mailto:info@acemgmtappraisal.com" class="border-bottom d-block d-md-inline-block">info@acemgmtappraisal.com<br></a>
+              E-mail:&nbsp;<a href="mailto:info@acevaluemanagement.com" class="border-bottom d-block d-md-inline-block">info@acevaluemanagement.com<br></a>
             </address>
             <hr>
 

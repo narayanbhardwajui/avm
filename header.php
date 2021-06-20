@@ -12,6 +12,8 @@
           <li><a class="active" href="index.php">Home</a></li>
           <li><a href="services.php">Services</a></li>
           <li><a href="about.php">About Us</a></li>
+          <li><a href="lenders.php">Lenders</a></li>
+          <li><a href="appraisers.php">Appraisers</a></li>
           <li><a href="contact.php">Contact Us</a></li>
           <li><a href="https://acevaluemanagement.spurams.com/login.aspx" class="btn btn-outline-danger text-danger px-4 ms-0 ms-md-4">Login</a></li>
         </ul>
