@@ -31,7 +31,7 @@
   <div class="text-center shdw-bg"
       style="background: url(assets/img/AppraisersHeroBanner.jpg) no-repeat top / 100%;height: 75vh;display:flex;align-items:center;justify-content:center">
       <h1 class="text-white" style="font-size:50px;font-weight:bold">
-        Raising The Bar On Appraisal Services
+        Raising The Bar Of Appraisal Services
       </h1>
   </div>
    <!-- #main section -->
