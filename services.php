@@ -28,9 +28,12 @@
   <?php include 'header.php';?>
 
   <main id="main">
-    <div class="text-center"
-      style="background: url(https://images.pexels.com/photos/3184424/pexels-photo-3184424.jpeg) no-repeat top / 100%;height: 45vh;">
-    </div>
+  <div class="text-center shdw-bg"
+      style="background: url(assets/img/ServicesHeroBanner.jpg) no-repeat top / 100%;height: 75vh;display:flex;align-items:center;justify-content:center">
+      <h1 class="text-white" style="font-size:50px;font-weight:bold">
+        Our Services
+      </h1>
+  </div>
     <section id="about-us" class="about-us">
       <div class="container">
         <div class="row">
@@ -59,11 +62,10 @@
           </div>
           <div class="col-md-9 mb-3">
             <div class="card-body bg-light border">
-              <h2 class="fw-bold text-primary">Services</h2>
-              <p>Lender’s Link has developed a line of off-the-shelf products that satisfies the requirements of even
-                our most demanding clients. &nbsp;By tackling the most common appraisal scenarios and service
-                requirements in a quick and practical way, our products effectively satiate their ever-growing needs:
-              </p>
+            <h2 class="fw-bold">Services</h2>
+            <p>AVM has developed a top of the line products that fulfil the requirements of even our most demanding clients. 
+              By rigging the most common appraisal scenarios and service requirements in a prompt and applicable way, our products 
+              effectively satisfy their ever-growing needs.</p>
               <div class="mb-5 border-bottom mt-5">
                 <h5 class="fw-bold text-uppercase">RESIDENTIAL PROPERTIES</h5>
                 <p><a href="?page_id=9">1004 – Uniform Residential Appraisal Report</a></p>

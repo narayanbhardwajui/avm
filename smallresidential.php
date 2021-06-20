@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>1004 | Single Family- AVM</title>
+  <title>1025 | Small Residential Income Property Appraisal- AVM</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -57,13 +57,12 @@
               </div>
             </div>
           </div>
-          <div class="col-md-9">
-          <div class="entry-content card-body bg-light border">
-		
-    <h2 class="fw-bold text-primary">Uniform Residential Appraisal Report (Form 1004)</h2>
-<p>This report form is designed to report an appraisal of a one-unit property or a one-unit property with an accessory unit; including a unit in a planned unit development (PUD), based on an interior and exterior inspection of the subject property. This report form is not designed to report an appraisal of a manufactured home or a unit in a condominium or cooperative project.</p>
-<h3>Use</h3>
-<p>This report form is designed to report an appraisal of a one-unit property or a one-unit property with an accessory unit; including a unit in a planned unit development (PUD), based on an interior and exterior inspection of the subject property. This report form is not designed to report an appraisal of a manufactured home or a unit in a condominium or cooperative project.</p>
+          <div class="col-md-9 ">
+            <div class="entry-content card-body bg-light border">
+              
+            <div class="entry-content">
+            <h2 class="fw-bold text-primary">Small Residential Income Property Appraisal (Form 1025)</h2>
+<p>This report form is designed to report an appraisal of a two- to four-unit property, including a two- to four-unit property in a planned unit development (PUD).  A two- to four-unit property located in either a condominium or cooperative project requires the appraiser to inspect project and complete the project information section of the Individual Condominium Unit Appraisal Report or the Individual Cooperative Interest Appraisal Report and attach it as an addendum to this report. </p>
 <h3>Modifications, Additions, or Deletions</h3>
 <p>This appraisal report is subject to the scope of work, intended use, intended user, definition of market value, statement of assumptions and limiting conditions, and certifications contained in the report form. Modifications, additions, or deletions to the intended use, intended user, definition of market value, or assumptions and limiting conditions are not permitted. The appraiser may expand the scope of work to include any additional research or analysis necessary based on the complexity of this appraisal assignment. Modifications or deletions to the certifications are also not permitted. However, additional certifications that do not constitute material alterations to this appraisal report, such as those required by law or those related to the appraiser’s continuing education or membership in an appraisal organization are permitted.</p>
 <h3>Scope of Work</h3>
@@ -76,8 +75,9 @@
 <li>Clear, descriptive photographs (either in black and white or color) that show the front of each comparable sale and that are appropriately identified. Generally, photographs should be originals that are produced by photography or electronic imaging; however, copies of photographs from a multiple listing service or from the appraiser’s files are acceptable if they are clear and descriptive;</li>
 <li>Any other data–as an attachment or addendum to the appraisal report form–that are necessary to provide an adequately supported opinion of market value.</li>
 </ul>
+<p>Information provided from fanniemae website</p>
 			</div>
-            
+
             </div>
           </div>
         </div>
