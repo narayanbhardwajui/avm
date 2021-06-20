@@ -780,7 +780,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #fff;
-  color: #0d6efd;
+  color: #dc3545;
   line-height: 1;
   padding: 8px 0;
   margin-right: 8px;
@@ -792,7 +792,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #0d6efd;
+  background: #dc3545;
   color: #fff;
   text-decoration: none;
 }
@@ -817,7 +817,7 @@ section {
   transform: translateY(-50%);
   width: 6px;
   height: 6px;
-  background: #0d6efd;
+  background: #dc3545;
 }
 #footer .widget-title {
   position: relative;
@@ -834,14 +834,14 @@ section {
   bottom: -5px;
   height: 2px;
   width: 40px;
-  background: #0d6efd;
+  background: #dc3545;
 }
 .address-widget {
   list-style: none;
   padding-left: 0;
 }
 .address-widget .bi {
-  color: #0d6efd;
+  color: #dc3545;
   font-size: 18px;
 }
 .address-widget .desc {

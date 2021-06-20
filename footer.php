@@ -9,7 +9,7 @@
                             </div>
                               <div class="textwidget pr-60 md-pr-15">
                                 <p class="white-color mb-2 pe-5">Ace Value Management, as a real estate valuation services firm, founded on the principle of creating transparent relationship between the lender and appraiser through a process that brings out best in both parties.</p>
-                                <a href="about.php" class="text-primary text-decoration-underline">Read More</a>
+                                <a href="about.php" class="text-primary text-danger">Read More</a>
                               </div>
                         </div>
                         <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
@@ -63,7 +63,7 @@
                     <div class="row">
                         <div class="col-lg-12 text-center">
                             <div class="copyright">
-                                <p class="mb-0">© 2021 All Rights Reserved. Developed By <a href="#" class="text-primary">EasyGoBranding</a></p>
+                                <p class="mb-0">© 2021 All Rights Reserved. Developed By <a href="#" class="text-danger">EasyGoBranding</a></p>
                             </div>
                         </div>
                     </div>
