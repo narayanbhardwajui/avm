@@ -116,11 +116,11 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
-            <h3>We've created more than <span>200 websites</span> this year!</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h3>It’s easy to get started with our reliable and proven solutions.</h3>
+            <p> Reach out today to put the AVM Advantage to the test.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <button class="btn btn-danger align-middle" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Request a quote</button>
+            <button class="btn btn-danger align-middle" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Get More Info</button>
           </div>
         </div>
       </div>
@@ -132,7 +132,7 @@
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="modal-header">
-            <h5 class="modal-title" id="staticBackdropLabel">Have Us Contact You</h5>
+            <h5 class="modal-title" id="staticBackdropLabel">AVM Solutions - Get More Info</h5>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
