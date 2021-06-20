@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>1025 | Small Residential Income Property Appraisal- AVM</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Muli:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+  <?php include 'header.php';?>
+
+  <main id="main">
+    <div class="text-center"
+      style="background: url(assets/img/ServicesHeroBanner.jpg) no-repeat top / 100%;height: 45vh;">
+    </div>
+    <section id="about-us" class="about-us">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <div class="card">
+              <div class="card-header">
+                Services
+              </div>
+              <div class="card-body">
+              <ul class="ps-3" style="font-size: 14px;">
+                  <li><a href="singlefamily.php">1004 – Single Family</a></li>
+                  <li><a href="condominium.php">1073 – Condominium</a></li>
+                  <li><a href="coop.php">2090 – COOP</a></li>
+                  <li><a href="smallresidential.php">1025 – Small Residential Income Property Appraisal</a></li>
+                  <li><a href="exteriorsinglefamily.php">2055 – Exterior Single Family</a></li>
+                  <li><a href="exteriorcondominium.php">1075 – Exterior Condominium</a></li>
+                  <li><a href="exteriorcoop.php">2095 – Exterior COOP</a></li>
+                  <li><a href="manufacturehousing.php">1004C – Manufacture Housing</a></li>
+                  <li><a href="fielddeskreview.php">2000 – Field/Desk Review</a></li>
+                  <li><a href="residentialappraisaldesk.php">2006 – Residential Appraisal Desk and/or Field Review Report</a></li>
+                  <li><a href="additionalforms.php">1004D – Update of Value</a></li>
+                  <li><a href="additionalforms.php">216, 1007 Additional Forms</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-9 ">
+            <div class="entry-content card-body bg-light border">
+              
+            <div class="entry-content">
+            <h2 class="fw-bold text-primary">Small Residential Income Property Appraisal (Form 1025)</h2>
+<p>This report form is designed to report an appraisal of a two- to four-unit property, including a two- to four-unit property in a planned unit development (PUD).  A two- to four-unit property located in either a condominium or cooperative project requires the appraiser to inspect project and complete the project information section of the Individual Condominium Unit Appraisal Report or the Individual Cooperative Interest Appraisal Report and attach it as an addendum to this report. </p>
+<h3>Modifications, Additions, or Deletions</h3>
+<p>This appraisal report is subject to the scope of work, intended use, intended user, definition of market value, statement of assumptions and limiting conditions, and certifications contained in the report form. Modifications, additions, or deletions to the intended use, intended user, definition of market value, or assumptions and limiting conditions are not permitted. The appraiser may expand the scope of work to include any additional research or analysis necessary based on the complexity of this appraisal assignment. Modifications or deletions to the certifications are also not permitted. However, additional certifications that do not constitute material alterations to this appraisal report, such as those required by law or those related to the appraiser’s continuing education or membership in an appraisal organization are permitted.</p>
+<h3>Scope of Work</h3>
+<p>The scope of work for this appraisal is defined by the complexity of this appraisal assignment and the reporting requirements of this appraisal report form, including the following definition of market value, statement of assumptions and limiting conditions, and certifications. The appraiser must, at a minimum: (1) perform a complete visual inspection of the interior and exterior areas of the subject property, (2) inspect the neighborhood, (3) inspect each of the comparable sales from at least the street, (4) research, verify, and analyze data from reliable public and/or private sources, and (5) report his or her analysis, opinions, and conclusions in this appraisal report.</p>
+<h3>Required Exhibits</h3>
+<ul>
+<li>A street map that shows the location of the subject property and of all comparables that the appraiser used;</li>
+<li>An exterior building sketch of the improvements that indicates the dimensions. The appraiser must also include calculations to show how he or she arrived at the estimate for gross living area. A floor plan sketch that indicates the dimensions is required instead of the exterior building or unit sketch if the floor plan is atypical or functionally obsolete, thus limiting the market appeal for the property in comparison to competitive properties in the neighborhood;</li>
+<li>Clear, descriptive photographs (either in black and white or color) that show the front, back, and a street scene of the subject property, and that are appropriately identified. (Photographs must be originals that are produced either by photography or electronic imaging.);</li>
+<li>Clear, descriptive photographs (either in black and white or color) that show the front of each comparable sale and that are appropriately identified. Generally, photographs should be originals that are produced by photography or electronic imaging; however, copies of photographs from a multiple listing service or from the appraiser’s files are acceptable if they are clear and descriptive;</li>
+<li>Any other data–as an attachment or addendum to the appraisal report form–that are necessary to provide an adequately supported opinion of market value.</li>
+</ul>
+<p>Information provided from fanniemae website</p>
+			</div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </section>
+  </main><!-- End #main -->
+
+  <?php include 'footer.php';?>
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Services- AVM</title>
+  <title>1004C | Manufacture Housing- AVM</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -29,7 +29,7 @@
 
   <main id="main">
     <div class="text-center"
-      style="background: url(https://images.pexels.com/photos/3184424/pexels-photo-3184424.jpeg) no-repeat top / 100%;height: 45vh;">
+      style="background: url(assets/img/ServicesHeroBanner.jpg) no-repeat top / 100%;height: 45vh;">
     </div>
     <section id="about-us" class="about-us">
       <div class="container">
@@ -40,32 +40,31 @@
                 Services
               </div>
               <div class="card-body">
-                <ul class="ps-3" style="font-size: 14px;">
-                  <li><a href="?page_id=9">1004 – Single Family</a></li>
-                  <li><a href="?page_id=97">1073 – Condominium</a></li>
-                  <li><a href="?page_id=193">2090 – COOP</a></li>
-                  <li><a href="?page_id=282">1025 – Small Residential Income Property Appraisal</a></li>
-                  <li><a href="?page_id=217">2055 – Exterior Single Family</a></li>
-                  <li><a href="?page_id=227">1075 – Exterior Condominium</a></li>
-                  <li><a href="?page_id=232">2095 – Exterior COOP</a></li>
-                  <li><a href="?page_id=14">1004C – Manufacture Housing</a></li>
-                  <li><a href="?page_id=236">2000 – Field/Desk Review</a></li>
-                  <li><a href="?page_id=278">2006 – Residential Appraisal Desk and/or Field Review Report</a></li>
-                  <li><a href="?page_id=240">1004D – Update of Value</a></li>
-                  <li><a href="?page_id=240">216, 1007 Additional Forms</a></li>
+              <ul class="ps-3" style="font-size: 14px;">
+                  <li><a href="singlefamily.php">1004 – Single Family</a></li>
+                  <li><a href="condominium.php">1073 – Condominium</a></li>
+                  <li><a href="coop.php">2090 – COOP</a></li>
+                  <li><a href="smallresidential.php">1025 – Small Residential Income Property Appraisal</a></li>
+                  <li><a href="exteriorsinglefamily.php">2055 – Exterior Single Family</a></li>
+                  <li><a href="exteriorcondominium.php">1075 – Exterior Condominium</a></li>
+                  <li><a href="exteriorcoop.php">2095 – Exterior COOP</a></li>
+                  <li><a href="manufacturehousing.php">1004C – Manufacture Housing</a></li>
+                  <li><a href="fielddeskreview.php">2000 – Field/Desk Review</a></li>
+                  <li><a href="residentialappraisaldesk.php">2006 – Residential Appraisal Desk and/or Field Review Report</a></li>
+                  <li><a href="additionalforms.php">1004D – Update of Value</a></li>
+                  <li><a href="additionalforms.php">216, 1007 Additional Forms</a></li>
                 </ul>
               </div>
             </div>
           </div>
-          <div class="col-md-9">
-          <div class="entry-content card-body bg-light border">
-		
-    <h2 class="fw-bold text-primary">Uniform Residential Appraisal Report (Form 1004)</h2>
-<p>This report form is designed to report an appraisal of a one-unit property or a one-unit property with an accessory unit; including a unit in a planned unit development (PUD), based on an interior and exterior inspection of the subject property. This report form is not designed to report an appraisal of a manufactured home or a unit in a condominium or cooperative project.</p>
-<h3>Use</h3>
-<p>This report form is designed to report an appraisal of a one-unit property or a one-unit property with an accessory unit; including a unit in a planned unit development (PUD), based on an interior and exterior inspection of the subject property. This report form is not designed to report an appraisal of a manufactured home or a unit in a condominium or cooperative project.</p>
+          <div class="col-md-9 ">
+            <div class="entry-content card-body bg-light border">
+              
+            <div class="entry-content">
+            <h2 class="fw-bold text-primary">Manufactured Home Appraisal Report (Form 1004C)</h2>
+<p>This report form is designed to report an appraisal of a one-unit manufactured home; including a manufactured home in a planned unit development (PUD) based on an interior and exterior inspection of the subject property. A Manufactured home located in either a condominium or cooperative project requires the appraiser to inspect the project and complete the project information section of the Individual Condominium Unit Appraisal Report or the Individual Cooperative Interest Appraisal Report and attach it as an addendum to this report.</p>
 <h3>Modifications, Additions, or Deletions</h3>
-<p>This appraisal report is subject to the scope of work, intended use, intended user, definition of market value, statement of assumptions and limiting conditions, and certifications contained in the report form. Modifications, additions, or deletions to the intended use, intended user, definition of market value, or assumptions and limiting conditions are not permitted. The appraiser may expand the scope of work to include any additional research or analysis necessary based on the complexity of this appraisal assignment. Modifications or deletions to the certifications are also not permitted. However, additional certifications that do not constitute material alterations to this appraisal report, such as those required by law or those related to the appraiser’s continuing education or membership in an appraisal organization are permitted.</p>
+<p>This appraisal report is subject to the following scope of work, intended use, intended user, definition of market value, statement of assumptions and limiting conditions, and certifications. Modifications, additions, or deletions to the intended use, intended user, definition of market value, or assumptions and limiting conditions are not permitted. The appraiser may expand the scope of work to include any additional research or analysis necessary based on the complexity of this appraisal assignment. Modifications or deletions to the certifications are also not permitted. However, additional certifications that do not constitute material alterations to this appraisal report, such as those required by law or those related to the appraiser’s continuing education or membership in an appraisal organization are permitted.</p>
 <h3>Scope of Work</h3>
 <p>The scope of work for this appraisal is defined by the complexity of this appraisal assignment and the reporting requirements of this appraisal report form, including the following definition of market value, statement of assumptions and limiting conditions, and certifications. The appraiser must, at a minimum: (1) perform a complete visual inspection of the interior and exterior areas of the subject property, (2) inspect the neighborhood, (3) inspect each of the comparable sales from at least the street, (4) research, verify, and analyze data from reliable public and/or private sources, and (5) report his or her analysis, opinions, and conclusions in this appraisal report.</p>
 <h3>Required Exhibits</h3>
@@ -77,17 +76,7 @@
 <li>Any other data–as an attachment or addendum to the appraisal report form–that are necessary to provide an adequately supported opinion of market value.</li>
 </ul>
 			</div>
-            <div class="mb-5">
-              <h5 class="fw-bold text-uppercase">ADDITIONAL FORMS AND ADDEDUMS</h5>
-              <p><a href="?page_id=240">1007 – Single-Family Comparable Rent Schedule</a></p>
-              <ul>
-                <li>Fannie Mae 1007 | Freddie Mac 1000</li>
-              </ul>
-              <p><a href="?page_id=240">1004D – Appraisal Update and/or Completion Report (1004D)</a></p>
-              <ul>
-                <li>Fannie Mae 1004D | Freddie Mac 442</li>
-              </ul>
-            </div>
+
             </div>
           </div>
         </div>
