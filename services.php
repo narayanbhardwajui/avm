@@ -68,35 +68,35 @@
               effectively satisfy their ever-growing needs.</p>
               <div class="mb-5 border-bottom mt-5">
                 <h5 class="fw-bold text-uppercase">RESIDENTIAL PROPERTIES</h5>
-                <p><a href="?page_id=9">1004 – Uniform Residential Appraisal Report</a></p>
+                <p><a href="singlefamily.php">1004 – Uniform Residential Appraisal Report</a></p>
                 <ul>
                   <li>Fannie Mae 1004 | Freddie Mac 70</li>
                 </ul>
-                <p><a href="?page_id=97">1073 – Individual Condominium Unit Appraisal Report</a></p>
+                <p><a href="condominium.php">1073 – Individual Condominium Unit Appraisal Report</a></p>
                 <ul>
                   <li>Fannie Mae 1073 | Freddie Mac 465</li>
                 </ul>
-                <p><a href="?page_id=193">2090 – Individual Cooperative Interest Appraisal Report</a></p>
+                <p><a href="coop.php">2090 – Individual Cooperative Interest Appraisal Report</a></p>
                 <ul>
                   <li>Fannie Mae 2090</li>
                 </ul>
               </div>
               <div class="mb-5 border-bottom">
                 <h5 class="fw-bold text-uppercase">multi-family properties</h5>
-                <p><a href="?page_id=282">1025 – Small Residential Income Property Appraisal</a></p>
+                <p><a href="smallresidential.php">1025 – Small Residential Income Property Appraisal</a></p>
               </div>
               <div class="mb-5 border-bottom">
                 <h5 class="fw-bold text-uppercase">EXTERIOR ONLY APPRAISAL REPORTS</h5>
-                <p><a href="?page_id=217">2055 – Exterior-Only Inspection Residential Appraisal Report</a></p>
+                <p><a href="exteriorsinglefamily.php">2055 – Exterior-Only Inspection Residential Appraisal Report</a></p>
                 <ul>
                   <li>Fannie Mae 2055 | Freddie Mac 2055</li>
                 </ul>
-                <p><a href="?page_id=227">1075 – Exterior-Only Inspection Individual Condominium Unit Appraisal Report</a>
+                <p><a href="exteriorcondominium.php">1075 – Exterior-Only Inspection Individual Condominium Unit Appraisal Report</a>
                 </p>
                 <ul>
                   <li>Fannie Mae 1075 | Freddie Mac 466</li>
                 </ul>
-                <p><a href="?page_id=232">2095 – Exterior-Only Inspection Individual Cooperative Interest Appraisal
+                <p><a href="exteriorcoop.php">2095 – Exterior-Only Inspection Individual Cooperative Interest Appraisal
                     Report</a></p>
                 <ul>
                   <li>Fannie Mae 2095</li>
@@ -105,29 +105,29 @@
 
               <div class="mb-5 border-bottom">
                 <h5 class="fw-bold text-uppercase">MANUFACTURED PROPERTIES</h5>
-                <p><a href="?page_id=14">1004C – Manufactured Home Appraisal Report</a></p>
+                <p><a href="manufacturehousing.php">1004C – Manufactured Home Appraisal Report</a></p>
                 <ul>
                   <li>Fannie Mae 1004C | Freddie Mac 465</li>
                 </ul>
               </div>
               <div class="mb-5 border-bottom">
               <h5 class="fw-bold text-uppercase">EXTERIOR/INTERIOR FIELD or DESK REVIEW APPRAISAL REPORTS</h5>
-              <p><a href="?page_id=236">2000 – One-Unit Residential Appraisal Field Review Report</a></p>
+              <p><a href="fielddeskreview.php">2000 – One-Unit Residential Appraisal Field Review Report</a></p>
               <ul>
                 <li>Fannie Mae 2000 | Freddie Mac 1032</li>
               </ul>
-              <p><a href="?page_id=278">2006 – One-Unit Residential Appraisal Desk Review Report</a></p>
+              <p><a href="residentialappraisaldesk.php">2006 – One-Unit Residential Appraisal Desk Review Report</a></p>
               <ul>
                 <li>Fannie Mae 2006 | Freddie Mac</li>
               </ul>
             </div>
             <div class="mb-5">
               <h5 class="fw-bold text-uppercase">ADDITIONAL FORMS AND ADDEDUMS</h5>
-              <p><a href="?page_id=240">1007 – Single-Family Comparable Rent Schedule</a></p>
+              <p><a href="additionalforms.php">1007 – Single-Family Comparable Rent Schedule</a></p>
               <ul>
                 <li>Fannie Mae 1007 | Freddie Mac 1000</li>
               </ul>
-              <p><a href="?page_id=240">1004D – Appraisal Update and/or Completion Report (1004D)</a></p>
+              <p><a href="additionalforms.php">1004D – Appraisal Update and/or Completion Report (1004D)</a></p>
               <ul>
                 <li>Fannie Mae 1004D | Freddie Mac 442</li>
               </ul>
