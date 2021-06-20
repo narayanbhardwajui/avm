@@ -156,7 +156,7 @@
               <div class="mb-3">
               <textarea class="form-control" placeholder="Message" rows="6" cols="100"></textarea>
               </div>
-              <input type="submit" class="btn btn-danger w-100 rounded-pill" name="submitbutton" value="Submit">
+              <input type="submit" class="btn btn-danger w-100" name="submitbutton" value="Submit">
             </form>
           </div>
         </div>

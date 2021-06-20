@@ -62,7 +62,7 @@
 
             <address>
               <h3 class="h3">Office Locations:</h3>
-              <p class="text-secondary"><strong>Ace Value Management</strong><br>
+              <p class="text-secondary"><strong class="text-danger">Ace Value Management</strong><br>
               695 S Harvard bl 2nd floor<br>
                   Los Angeles, Ca. 90005</p>
             </address>
