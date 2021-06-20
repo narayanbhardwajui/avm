@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Privacy Policy- AVM</title>
+  <title>Terms Of Use- AVM</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/favicon.ico" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -29,7 +29,7 @@
 
   <main id="main">
   <div class="text-center shdw-bg"
-      style="background: url(assets/img/ServicesHeroBanner.jpg) no-repeat top / 100%;height: 75vh;display:flex;align-items:center;justify-content:center">
+      style="background: url(assets/img/termsofuse.jpg) no-repeat top / 100%;height: 75vh;display:flex;align-items:center;justify-content:center">
       <h1 class="text-white" style="font-size:50px;font-weight:bold">
       Terms Of Use
       </h1>
@@ -39,99 +39,112 @@
         
             <div class="card-body bg-light border">
             <h2 class="fw-bold text-primary">Ace Value Management (AVM) - Terms Of Use</h2>
-                <p>Ace Value Management (AVM) is committed to protect the privacy of users of the Ace Value Manegement site. 
-            At Ace Value Management (AVM), we intend to give you as much control as possible over your personal and confidential information. 
-            As part of the normal operation of the Ace Value Management (AVM) site, we collect information from you. This Privacy Statement 
-            describes the information we collect about you and how that information may be used.</p>
+                <p>Ace Value Management (AVM) operates this Site to provide online access to information 
+                about Ace Value Management (AVM) and the products, services, and opportunities we provide (the "Service"). By accessing and using 
+                this Site, you agree to each of the terms and conditions set forth herein ("Terms of Use").</p>
+                <p>
+                Terms of Use govern your use of Ace Value Management (AVM) Web Site, content or transactions. These Terms of Use, together with 
+                applicable additional terms and conditions, are referred to as this "Agreement."</p>
+                <p>Ace Value Management (AVM) reserves the right to modify this Agreement at any time without giving you prior notice. Your use of the
+                 Site following any such modification constitutes your agreement to follow and be bound by the Agreement as modified. The last
+                  date these Terms of Use were revised is set forth below.</p>
               <div class="mb-5 border-bottom mt-5">
-                <h5 class="fw-bold text-uppercase">INFORMATION GATHERED THROUGH THE Ace Value Management (AVM) WEBSITE</h5>
-                <p>Ace Value Management (AVM) collects non-public personal information that has been voluntarily provided by you. 
-                Information collected may include your name, address, telephone number, email address and other information that you submit.
-                Ace Value Management (AVM) may track the domains from which people visit the Ace Value Management (AVM) site in order to gain 
-                aggregate data that may be analyzed for trends and statistics. Subject to the provisions of this Privacy Statement, 
-                Ace Value Management (AVM) may use accumulated aggregate data for several purposes including, but not limited to, 
-                marketing analysis, evaluation of Ace Value Management’s services, and business planning. 
-                Currently, Ace Value Management (AVM) uses personal information as a basis for notifications to users, and in order to 
-                implement the Terms and Conditions of Use governing the Ace Value Management (AVM) site (the “Terms”).<br>
-Notification: In order to implement or enforce the Terms, Ace Value Management (AVM) may use user-provided e-mail addresses to contact 
-users on an individual basis. At no time, unless such disclosure is required by law, a governmental agency, or specifically authorized 
-by the user, will Ace Value Management (AVM) disclose individual user personal information to unrelated third parties that is not 
-publicly available.</p>
+                <h5 class="fw-bold text-uppercase">1. Use of Site</h5>
+                <p>You may use the Service, the Site, and the information, writings, images and/or other works that you see, hear or 
+                otherwise experience on the Site (singly or collectively, the "Content") solely for your non-commercial, personal purposes 
+                and/or to learn about Ace Value Management (AVM) products and services. No right, title or interest in any Content is transferred 
+                to you, whether as a result of downloading such Content or otherwise. Ace Value Management (AVM) reserves complete title and full 
+                intellectual property rights in all Content. Except as expressly authorized by this Agreement, you may not use, alter, copy, 
+                distribute, transmit, or derive another work from any Content obtained from the Site or the Service, except as expressly 
+                permitted by the Terms of Use.</p>
                   </div>
                   <div class="mb-5 border-bottom">
-                <h5 class="fw-bold text-uppercase">cookies</h5>
-                <p>The Ace Value Management (AVM) website may create a file, or "cookie," on the hard drive of your computer in order 
-                to retain information that is used by our website. These files are used during your online session to ensure that access 
-                to our site is authorized and to control certain parameters of your communication session with our website. 
-                We do not use these files to monitor the behavior of visitors to our sites.</p>
+                <h5 class="fw-bold text-uppercase">2. copyright</h5>
+                <p>The Site and the Content are protected by United States laws and local and foreign copyright laws as the case may be, and
+                 belong to Ace Value Management (AVM) or its partners, affiliates, contributors or third parties. The copyrights in the Content are owned 
+                 by Ace Value Management (AVM) or other copyright owners who have authorized their use on the Site. You may download and reprint Content 
+                 for non-commercial, non-public, personal use only (If you are browsing this Site as an employee or member of any business 
+                 or organization, you may download and reprint Content only for educational or other non-commercial purposes within your 
+                 business or organization, except as otherwise permitted by Ace Value Management (AVM).</p>
                     </div>
               <div class="mb-5 border-bottom">
-                <h5 class="fw-bold text-uppercase">LINKS WITH OTHER SITES</h5>
-                <p>The Ace Value Management (AVM) site contains links to other websites, whether owned or controlled by Ace Value Management (AVM) 
-                affiliates or unrelated third parties. Please note that the privacy policies of these sites may differ from those of the 
-                Ace Value Management (AVM) site. Ace Value Management (AVM) is not responsible for the privacy policies and practices of any linked 
-                websites. We encourage you to read the privacy statement of any website you may visit.</p>
+                <h5 class="fw-bold text-uppercase">3. trademarks</h5>
+                <p>You are prohibited from using any of the marks or logos appearing throughout the Site without permission from the 
+                trademark owner, except as permitted by applicable law.</p>
               </div>
               <div class="mb-5 border-bottom">
-                <h5 class="fw-bold text-uppercase">SECURITY</h5>
-                <p>To secure site integrity, Ace Value Management (AVM) employs measures, including but not limited to security audits, 
-                use of encryption tools and software, and other reasonable security measures and procedures. Internal access to users’ 
-                private and nonpublic personal information is restricted to site administrators and individuals on a need-to-know basis.</p>
+                <h5 class="fw-bold text-uppercase">4. links to third-party web sites</h5>
+                <p>Links on the Site to third party web sites or information are provided solely as a convenience to you. If you use these 
+                links, you will leave the Site. Such links do not constitute or imply an endorsement, sponsorship, or recommendation by 
+                Ace Value Management (AVM) of the third party, the third-party web site, or the information contained therein. Ace Value Management (AVM) is not 
+                responsible for the availability of any such web sites. Ace Value Management (AVM) is not responsible or liable for any such web site 
+                or the content thereon. If you use the links to the web sites of Ace Value Management (AVM) affiliates or service providers, you will 
+                leave the Site, and will be subject to the terms of use and privacy policy applicable to those web sites</p>
                 </div>
 
               <div class="mb-5 border-bottom">
-                <h5 class="fw-bold text-uppercase">ENFORCEMENT</h5>
-                <p>In the event that Ace Value Management (AVM) becomes aware that site security is compromised or nonpublic user information has 
-                been disclosed to unrelated third parties as a result of external activity, including but not limited to external security 
-                attacks, Ace Value Management (AVM) shall take reasonable measures which it deems appropriate, including but not limited to 
-                internal investigation and reporting, and notification to and cooperation with law enforcement authorities, notwithstanding 
-                other provisions of this Privacy Statement.<br>
-                Ace Value Management (AVM) becomes aware that a user’s personal information provided to Ace Value Management (AVM) has been disclosed in a 
-                manner not in accordance with this Privacy Statement, Ace Value Management (AVM) shall make reasonable efforts to notify the 
-                affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the 
-                extent that Ace Value Management (AVM) knows this information.</p>
+                <h5 class="fw-bold text-uppercase">5. linking to the site</h5>
+                <p>If you would like to link to the Site, you must get Ace Value Management (AVM) authorization and follow Ace Value Management (AVM) 
+                guidelines in this respect. Unless specifically authorized by Ace Value Management (AVM), you may not connect "deep links" to the 
+                Site, i.e., create links to this site that bypass the home page or other parts of the Site. You may not mirror or frame the 
+                home page or any other pages of this Site on any other web site or web page.</p>
                 </div>
               <div class="mb-5 border-bottom">
-              <h5 class="fw-bold text-uppercase">EMAIL MARKETING OPT-OUT</h5>
-              <p>Ace Value Management (AVM) utilizes a third party vendor for all email marketing activities. 
-              This company’s Anti-Spam Policy tolerates only permission-based email. Recipients always have the opportunity to 
-              opt-out of our marketing communications or change preferences by following a link in the footer of all email 
-              messages sent by Ace Value Management (AVM).</a></p>
+              <h5 class="fw-bold text-uppercase">6. downloading files</h5>
+              <p>Ace Value Management (AVM) cannot and does not guarantee or warrant that files available for downloading through the Site will be free 
+              of infection by software viruses or other harmful computer code, files or programs.</p>
                </div>
             <div class="mb-5 border-bottom">
-              <h5 class="fw-bold text-uppercase">NO GUARANTEES FOR FACTORS BEYOND Ace Value Management’S CONTROL</h5>
-              <p>While this Privacy Statement expresses Ace Value Management’s standards for maintenance of privacy data, 
-              it is not in a position to guarantee that the standards will always be met. There may be factors beyond Ace Value Management’s 
-              control that may result in disclosure of data. As a consequence, Ace Value Management (AVM) disclaims any warranties or 
-              representations relating to maintenance or nondisclosure of private information.</p>       
+              <h5 class="fw-bold text-uppercase">7. software</h5>
+              <p>Any software available for download via the Site is the copyrighted work of Ace Value Management (AVM) and/or its licensors. Use of such
+               software is governed by the terms of the end user license agreement that accompanies or is included with the software. 
+               Downloading, installing, and/or using any such software indicates your acceptance of the terms of the end user license 
+               agreement.</p>       
                     </div>
-          <div class="mb-5">
-              <h5 class="fw-bold text-uppercase">standards of professional appraisal practice (uspap)</h5>
-              <p>Ace Value Management (AVM) makes significant efforts to keep all appraisal-related data confidential in 
-              compliance with the then current version of the Uniform Standards of Professional Appraisal Practice (USPAP) 
-              as published by The Appraisal Foundation. We will not disclose confidential appraisal data to any third party 
-              without the written permission of the rightful owner of that data. Furthermore, our staff, contractors and member 
-              appraisers have all entered into written contracts with Ace Value Management (AVM) to keep this data confidential. Appraisals 
-              ordered through Ace Value Management (AVM) are treated as a contract between the ordering party and the appraiser 
-              completing the work. Ace Value Management (AVM) is an agent for the ordering party and the appraiser.<br>
-              The lender/client may disclose or distribute this appraisal report to: the borrower; another lender at the 
-              request of the borrower; the mortgagee or its successors and assigns; mortgage insurers; government sponsored 
-              enterprises; other secondary market participants; data collection or reporting services; professional 
-              appraisal organizations; any department, agency, or instrumentality of the United States; and any state, 
-              the District of California, or other jurisdictions; without having to obtain the appraiser’s or supervisory 
-              appraiser’s (if applicable) consent. Such consent must be obtained before this appraisal report may be 
-              disclosed or distributed to any other party (including, but not limited to, the public through advertising, 
-              public relations, news, sales, or other media).  
+          <div class="mb-5 border-bottom">
+              <h5 class="fw-bold text-uppercase">8. disclaimer of warranties</h5>
+              <p>Ace Value Management (AVM) makes no express or implied warranties, representations or endorsements whatsoever with respect to the site, 
+              the service or the content. Ace Value Management (AVM) expressly disclaims all warranties of any kind, express, implied, statutory or 
+              otherwise, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title and
+               non-infringement, with regard to the site, the service, the content, and any product or service furnished or to be furnished
+                via the site. Ace Value Management (AVM) does not warrant that the functions performed by the site or the service will be uninterrupted,
+                 timely, secure or error-free, or that defects in the site or the service will be corrected. Ace Value Management (AVM) does not warrant
+                  the accuracy or completeness of the content, or that any errors in the content will be corrected. The site, the service
+                   and the content are provided on an "as is" and "as available" basis.</p>
                     </div>
                     <div class="mb-5 border-bottom">
-              <h5 class="fw-bold text-uppercase">POLICY CHANGES</h5>
-              <p>We reserve the right to modify or amend this Privacy Policy at any time. 
-              Changes will be made immediately to the website.</p>       
+              <h5 class="fw-bold text-uppercase">9. limitation of liability</h5>
+              <p>In no event will Ace Value Management (AVM) be liable for any damages whatsoever, including, but not limited to any direct, incidental,
+               consequential, special, exemplary or other indirect damages arising out of (i) the use of or inability to use the site, 
+               the service, or the content, (ii) any transaction conducted through or facilitated by the site; (iii) any claim attributable
+                to errors, omissions, or other inaccuracies in the site, the service and/or the content, (iv) unauthorized access to or
+                 alteration of your transmissions or data, or (v) any other matter relating to the site, the service, or the content, 
+                 even if Ace Value Management (AVM) has been advised of the possibility of such damages. If you are dissatisfied with the site, the 
+                 service, the content, or with the terms of use, your sole and exclusive remedy is to discontinue using the site.</p>       
+                    </div>
+                    <div class="mb-5 border-bottom">
+              <h5 class="fw-bold text-uppercase">10. indemnification</h5>
+              <p>You understand and agree that you are personally responsible for your behavior on the Site. You agree to indemnify, defend
+               and hold harmless Ace Value Management (AVM), its parent companies, subsidiaries, affiliated companies, joint ventures, business partners,
+                licensors, employees, agents, and any third-party information providers to the Service from and against all claims, losses,
+                 expenses, damages and costs (including, but not limited to, direct, incidental, consequential, exemplary and indirect 
+                 damages), and reasonable attorneys’ fees, resulting from or arising out of your use, misuse, or inability to use the Site,
+                  the Service, or the Content, or any violation by you of this Agreement.</p>       
                     </div>
                     <div class="mb-5">
-              <h5 class="fw-bold text-uppercase">INQUIRIES</h5>
-              <p>If you have a questions or comments regarding this Privacy Policy, 
-              please contact: Ace Value Management (AVM) via email at <a href="mailto:info@acevaluemanagement.com">info@acevaluemanagement.com</a></p>       
+              <h5 class="fw-bold text-uppercase">11. general provisions</h5>
+              <p>a. Entire Agreement/No Waiver. These Terms of Use constitute the entire agreement of the parties with respect to the subject
+               matter hereof. No waiver by Ace Value Management (AVM) of any breach or default hereunder shall be deemed to be a waiver of any preceding or
+                subsequent breach or default.</p>
+                <p>b. Correction of Errors and Inaccuracies. The Content may contain typographical errors or other errors or inaccuracies
+                 and may not be complete or current. Ace Value Management (AVM) therefore reserves the right to correct any errors, inaccuracies or 
+                 omissions and to change or update the Content at any time without prior notice. Ace Value Management (AVM) does not, however, guarantee 
+                 that any errors, inaccuracies or omissions will be corrected.</p>
+                 <p>c. Enforcement/ Choice of Law/ Choice of Forum. If any part of this Agreement is determined by a court of competent 
+                 jurisdiction to be invalid or unenforceable, it will not impact any other provision of this Agreement, all of which will
+                  remain in full force and effect. Any and all disputes relating to this Agreement, Ace Value Management’ Privacy Policy, your use
+                   of the Site, any other Ace Value Management (AVM) web site, the Service, or the Content are governed by, and will be interpreted in 
+                   accordance with, the exclusive laws of the United States, without regard to any conflict of law’s provisions.</p>       
                     </div>
         </div>
       </div>

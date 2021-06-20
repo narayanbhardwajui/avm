@@ -9,7 +9,7 @@
                             </div>
                               <div class="textwidget pr-60 md-pr-15">
                                 <p class="white-color mb-2 pe-5">Ace Value Management, as a real estate valuation services firm, founded on the principle of creating transparent relationship between the lender and appraiser through a process that brings out best in both parties.</p>
-                                <a href="about.php" class="text-primary text-danger">Read More</a>
+                                
                               </div>
                         </div>
                         <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
@@ -34,7 +34,7 @@
                             </ul>
                         </div>
                         <div class="col-lg-3 col-md-12 col-sm-12 footer-widget footer-links">
-                            <h4 class="widget-title">Links</h4>
+                            <h4 class="widget-title">Quick Links</h4>
                             <ul class="quick-links">
                               <li><a class="active" href="index.php">Home</a></li>
                               <li><a href="services.php">Services</a></li>
@@ -42,7 +42,11 @@
                               <li><a href="lenders.php">Lenders</a></li>
                               <li><a href="appraisers.php">Appraisers</a></li>
                               <li><a href="contact.php">Contact Us</a></li>
+                              <li><a href="https://acevaluemanagement.spurams.com/ClientSelfRegistration.aspx">Client Sign Up</a></li>
+                              <li><a href="https://acevaluemanagement.spurams.com/AppraiserSelfRegistration.aspx">Appraiser Sign Up</a></li>
                               <li><a href="https://acevaluemanagement.spurams.com/login.aspx">Login</a></li>
+                              <li><a href="privacypolicy.php">Privacy Policy</a></li>
+                              <li><a href="termsofuse.php">Terms Of Use</a></li>
                           </ul>
                         </div>
                         <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
@@ -63,7 +67,7 @@
                     <div class="row">
                         <div class="col-lg-12 text-center">
                             <div class="copyright">
-                                <p class="mb-0">© 2021 All Rights Reserved. Developed By <a href="#" class="text-danger">EasyGoBranding</a></p>
+                                <p class="mb-0">© 2021 All Rights Reserved. Developed By <a href="https://easygobranding.com/" class="text-danger">EasyGoBranding</a></p>
                             </div>
                         </div>
                     </div>

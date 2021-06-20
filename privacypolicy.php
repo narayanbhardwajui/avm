@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/favicon.ico" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -29,7 +29,7 @@
 
   <main id="main">
   <div class="text-center shdw-bg"
-      style="background: url(assets/img/ServicesHeroBanner.jpg) no-repeat top / 100%;height: 75vh;display:flex;align-items:center;justify-content:center">
+      style="background: url(assets/img/privacypolicyHerobanner.jpg) no-repeat top / 100%;height: 75vh;display:flex;align-items:center;justify-content:center">
       <h1 class="text-white" style="font-size:50px;font-weight:bold">
         Privacy Policy
       </h1>
@@ -105,7 +105,7 @@ publicly available.</p>
               control that may result in disclosure of data. As a consequence, Ace Value Management (AVM) disclaims any warranties or 
               representations relating to maintenance or nondisclosure of private information.</p>       
                     </div>
-          <div class="mb-5">
+          <div class="mb-5 border-bottom">
               <h5 class="fw-bold text-uppercase">standards of professional appraisal practice (uspap)</h5>
               <p>Ace Value Management (AVM) makes significant efforts to keep all appraisal-related data confidential in 
               compliance with the then current version of the Uniform Standards of Professional Appraisal Practice (USPAP) 
