@@ -117,7 +117,7 @@
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
             <h3>It’s easy to get started with our reliable and proven solutions.</h3>
-            <p> Reach out today to put the <span>AVM</span> Advantage to the test.</p>
+            <p> Reach out today to put the AVM Advantage to the test.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
             <button class="btn btn-danger align-middle" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Get More Info</button>
