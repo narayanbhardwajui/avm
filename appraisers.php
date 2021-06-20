@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/favicon.ico" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -29,7 +29,7 @@
 
   <main id="main">
   <div class="text-center shdw-bg"
-      style="background: url(assets/img/AppraisersHeroBanner.jpg) no-repeat top / 100%;height: 75vh;display:flex;align-items:center;justify-content:center">
+      style="background: url(assets/img/AppraisersHeroBanner.jpg) no-repeat center / cover;height: 75vh;display:flex;align-items:center;justify-content:center">
       <h1 class="text-white" style="font-size:50px;font-weight:bold">
         Raising The Bar Of Appraisal Services
       </h1>
@@ -45,13 +45,13 @@
     align-self: center;"><span>Join Us Today!</span></a></div>
           <p><em>We Care For Our Appraisers.</em></p>
           </div></div>
-          <p>Our appraisers are our key to success. So we make every effort to maintain a sound and supportive working environment 
-          throughout our appraiser network. The excellent service we provide to our clients depends on the excellence of our terrific 
+          <p>Our appraisers are our key to success. So we make every effort to maintain a sound and supportive working environment
+          throughout our appraiser network. The excellent service we provide to our clients depends on the excellence of our terrific
           network of the very best professional licensed appraisers.</p>
-          <p>In today's market, ability to close more loans than your competition depends on the quality of your appraisal solution. 
-          Hence, our infrastructure is designed in a manner which ensures compliance to all state and federal regulatory requirements as 
+          <p>In today's market, ability to close more loans than your competition depends on the quality of your appraisal solution.
+          Hence, our infrastructure is designed in a manner which ensures compliance to all state and federal regulatory requirements as
           well as appraiser independence.</p>
-          <p>AVM aids the mortgage industry and clients to reduce risk and make profitable and wise lending judgment by providing the 
+          <p>AVM aids the mortgage industry and clients to reduce risk and make profitable and wise lending judgment by providing the
           top-quality appraisals completed by local, talented appraisers compensated well above industry standards.</p>
           <h5><strong>EXPECTATIONS</strong></h5>
           <ul>
