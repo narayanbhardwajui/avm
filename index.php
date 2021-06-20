@@ -84,7 +84,8 @@
       <div class="container">
 
         <div class="row">
-          <div class="col-lg-6 col-md-6">
+          <div class="col-lg-6 col-md-6 position-relative">
+            <a href="lenders.php" class="position-absolute w-100 h-100" style="z-index:10"></a>
             <div class="icon-box" data-aos="fade-up">
               <div class="icon">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi" viewBox="0 0 16 16">
@@ -94,16 +95,17 @@
               <h4 class="title"><a href="">Lenders</a></h4>
               <p class="description">At Ace Value Management we bridge the most affordable, highest quality
               technological solutions in the market with best customer service.</p>
-              <a href="lenders.php" class="btn btn-outline-danger btn-sm">Read More</a>
+              <a href="lenders.php" class="btn btn-outline-danger btn-sm position-relative" style="z-index:11">Read More</a>
             </div>
           </div>
-          <div class="col-lg-6 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-6 col-md-6 position-relative">
+          <a href="appraisers.php" class="position-absolute w-100 h-100" style="z-index:10"></a>
+            <div class="icon-box">
               <div class="icon"><i class="bi bi-clipboard-data"></i></div>
               <h4 class="title"><a href="">Appraisers</a></h4>
               <p class="description">The excellent service provided to our clients depends on the quality of our appraisal solutions
                and our very best professionals...</p>
-              <a href="appraisers.php" class="btn btn-outline-danger btn-sm">Read More</a>
+              <a href="appraisers.php" class="btn btn-outline-danger btn-sm position-relative" style="z-index:11">Read More</a>
             </div>
           </div>
         </div>

@@ -23,8 +23,8 @@
       </div>
       </div>
     </div>
-    <div class="copyright text-center d-flex align-items-center justify-content-center">
-      <p class="mb-0">&copy; Copyright <strong><span>AVM</span></strong>. All Rights Reserved.</p>
+    <div class="copyright text-center">
+      <p class="mb-1">&copy; Copyright <strong><span>AVM</span></strong>. All Rights Reserved.</p>
       <div class="credits">
           Designed by <a href="https://easygobranding.com/"> EasyGo Branding</a>
       </div>
