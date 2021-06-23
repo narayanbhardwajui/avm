@@ -29,7 +29,7 @@
 
   <main id="main">
     <div class="text-center"
-      style="background: url(assets/img/ServicesHeroBanner.jpg) no-repeat top / 100%;height: 45vh;">
+      style="background: url(assets/img/ServicesHeroBanner.jpg) no-repeat center / cover;height: 45vh;">
     </div>
     <section id="about-us" class="about-us">
       <div class="container">
