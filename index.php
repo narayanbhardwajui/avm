@@ -27,6 +27,38 @@
 
 <?php include 'header.php';?>
 
+<div id="alert" class="alert alert-success alert-dismissible fade show" role="alert" style="display:none;">
+      Email Sent Successfully.
+      <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+  </div>
+
+<?php
+  if(isset($_POST['submitbutton']))
+    {
+      $from=$_POST['userName'];
+      $email=$_POST['userEmail'];
+      $message=$_POST['userMsg'];
+      $phone=$_POST['userPhone'];
+      $message=" \r\n Name: " .$from . " \r\n Phone no: " .$phone . " \r\n Email: " .$email . " \r\n Message: " .$message ;
+      $from="From: $name<$email>\r\nReturn-path: $email";
+      $subject="AVM Solutions - Get More Info";
+      mail("info@acevaluemanagement.com", $subject, $message, $from);
+    ?>
+    <script>
+        setTimeout(function(){
+            document.getElementById("alert").style.display = "block";
+        }, 1000);
+        setTimeout(function(){
+            window.location.href = window.location.href;
+        }, 3000);
+    </script>
+    <?php
+
+    }
+?>
+
+
+
 
   <!-- ======= Hero Section ======= -->
   <section id="hero">
@@ -74,6 +106,8 @@
     </div>
   </section>
   <!-- End Hero -->
+
+
 
   <main id="main">
 
@@ -140,23 +174,22 @@
           <div class="modal-body">
           <div class="row">
           <div class="col-md-12 mb-3">
-            <form class="contact-form h-100 bg-light p-5" method="POST">
+          <form class="contact-form h-100 bg-light p-2 p-md-5" method="POST">
+              <h3 class="h3 mb-3 text-danger">Have Us Contact You</h3>
               <div class="mb-3">
-                <input type="text" class="form-control" placeholder="Enter your name" name="userName">
+                <input type="text" class="form-control" placeholder="Enter your name" name="userName" required>
               </div>
               <div class="mb-3">
-                <input type="number" class="form-control" placeholder="Enter your phone number" name="userPhone">
+                <input type="number" class="form-control" placeholder="Enter your phone number" name="userPhone" required>
               </div>
               <div class="mb-3">
-                <input type="email" class="form-control" placeholder="Enter your email" name="userEmail">
-              </div>
-              <div class="mb-3">
-                <input type="text" class="form-control" placeholder="Subject" name="userMsg">
+                <input type="email" class="form-control" placeholder="Enter your email" name="userEmail" required>
               </div>
               <div class="mb-3">
               <textarea class="form-control" placeholder="Message" rows="6" cols="100"></textarea>
               </div>
               <input type="submit" class="btn btn-danger w-100" name="submitbutton" value="Submit">
+
             </form>
           </div>
         </div>

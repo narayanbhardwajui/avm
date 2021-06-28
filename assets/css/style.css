@@ -851,5 +851,11 @@ section {
   margin-bottom: 8px;
 }
 .footer-links {
-  padding-left: 50px;
+  padding-left: calc(var(--bs-gutter-x)/ 2);
+}
+
+@media (min-width:768px) {
+  .footer-links {
+    padding-left: 50px;
+  }
 }
